@@ -4,12 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf413c48-7bf9-4d21-93d7-185737f692c0" name="Changes" comment="" />
+    <list default="true" id="cf413c48-7bf9-4d21-93d7-185737f692c0" name="Changes" comment="PRUEBA">
+      <change afterPath="$PROJECT_DIR$/src/Figuras/Cuadrado.java.main.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Figuras/Rectangulo.java.main.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tarea/Circulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tarea/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tarea/Rectangulo.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="kotlin.jupyter.empty" />
+        <option value="Kotlin Script MainKts.main" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;FrancoC94&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/FrancoC94/ESTRUCTURA-DE-DATOS-.git&quot;,
+    &quot;accountId&quot;: &quot;13bb3fae-c6ea-48ef-a8e7-6c3702b87106&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -21,10 +54,29 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Circulo.executor": "Run",
+    "Application.Main,.executor": "Run",
     "Application.Main.executor": "Run",
+    "Java Scratch.Unnamed.executor": "Run",
+    "Kotlin script (Beta).12.main.kts.executor": "Run",
+    "Kotlin script (Beta).Cuadrado.java.main.kts.executor": "Run",
+    "Kotlin script (Beta).Rectangulo.java.main.kts.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "onboarding.tips.debug.path": "C:/Users/Cristhian Franco/Documents/Tareas Java/untitled/src/Main.java"
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "onboarding.tips.debug.path": "C:/Users/Cristhian Franco/Documents/Tareas Java/untitled/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
   }
 }]]></component>
   <component name="RunManager">
@@ -48,6 +100,75 @@
       <option name="presentableId" value="Default" />
       <updated>1749418155116</updated>
     </task>
+    <task id="LOCAL-00001" summary="Tarea Semana 2 estructura de datos">
+      <option name="closed" value="true" />
+      <created>1749443950254</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749443950254</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Tarea Semana 2 estructura de datos">
+      <option name="closed" value="true" />
+      <created>1749444203231</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749444203231</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Tarea Semana 2 estructura de datos">
+      <option name="closed" value="true" />
+      <created>1749444263310</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1749444263310</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Tarea Semana 2 estructura de datos">
+      <option name="closed" value="true" />
+      <created>1749444374978</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1749444374978</updated>
+    </task>
+    <task id="LOCAL-00005" summary="PRUEBA">
+      <option name="closed" value="true" />
+      <created>1749605239923</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1749605239923</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tarea Semana 2 estructura de datos" />
+    <MESSAGE value="PRUEBA" />
+    <option name="LAST_COMMIT_MESSAGE" value="PRUEBA" />
   </component>
 </project>
