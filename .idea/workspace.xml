@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf413c48-7bf9-4d21-93d7-185737f692c0" name="Changes" comment="PRUEBA">
-      <change afterPath="$PROJECT_DIR$/src/Figuras/Cuadrado.java.main.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Figuras/Rectangulo.java.main.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tarea/Circulo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tarea/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tarea/Rectangulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,34 +44,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Circulo.executor": "Run",
-    "Application.Main,.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Java Scratch.Unnamed.executor": "Run",
-    "Kotlin script (Beta).12.main.kts.executor": "Run",
-    "Kotlin script (Beta).Cuadrado.java.main.kts.executor": "Run",
-    "Kotlin script (Beta).Rectangulo.java.main.kts.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "onboarding.tips.debug.path": "C:/Users/Cristhian Franco/Documents/Tareas Java/untitled/src/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Circulo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main,.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Java Scratch.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin script (Beta).12.main.kts.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin script (Beta).Cuadrado.java.main.kts.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin script (Beta).Rectangulo.java.main.kts.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Cristhian Franco/Documents/Tareas Java/untitled/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory",
-      "module",
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Tarea" />
