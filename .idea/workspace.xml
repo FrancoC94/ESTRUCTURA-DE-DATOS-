@@ -30,12 +30,12 @@
     &quot;assignee&quot;: &quot;FrancoC94&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/FrancoC94/ESTRUCTURA-DE-DATOS-.git&quot;,
-    &quot;accountId&quot;: &quot;13bb3fae-c6ea-48ef-a8e7-6c3702b87106&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/FrancoC94/ESTRUCTURA-DE-DATOS-",
+    "accountId": "13bb3fae-c6ea-48ef-a8e7-6c3702b87106"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
