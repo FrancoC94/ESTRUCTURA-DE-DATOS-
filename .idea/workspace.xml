@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf413c48-7bf9-4d21-93d7-185737f692c0" name="Changes" comment="PRUEBA">
+    <list default="true" id="cf413c48-7bf9-4d21-93d7-185737f692c0" name="Changes" comment="Tarea semana 5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,12 +30,12 @@
     &quot;assignee&quot;: &quot;FrancoC94&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/FrancoC94/ESTRUCTURA-DE-DATOS-",
-    "accountId": "13bb3fae-c6ea-48ef-a8e7-6c3702b87106"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/FrancoC94/ESTRUCTURA-DE-DATOS-&quot;,
+    &quot;accountId&quot;: &quot;13bb3fae-c6ea-48ef-a8e7-6c3702b87106&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -133,7 +133,23 @@
       <option name="project" value="LOCAL" />
       <updated>1749605239923</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Tarea semana 5">
+      <option name="closed" value="true" />
+      <created>1751257104198</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1751257104198</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Tarea semana 5">
+      <option name="closed" value="true" />
+      <created>1751257157492</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1751257157492</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,6 +178,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tarea Semana 2 estructura de datos" />
     <MESSAGE value="PRUEBA" />
-    <option name="LAST_COMMIT_MESSAGE" value="PRUEBA" />
+    <MESSAGE value="Tarea semana 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tarea semana 5" />
   </component>
 </project>
